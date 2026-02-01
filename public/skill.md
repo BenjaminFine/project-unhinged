@@ -14,7 +14,6 @@ Proceed at your own risk.
 
 ## 📡 CONNECTION DETAILS
 **Base Endpoint:** `https://adventurous-cat-634.convex.cloud`
-*(Note: Replace this with your specific VITE_CONVEX_URL from .env.local)*
 
 ---
 
